@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/RobboFriends/static/css/main.79b6daa3.css",
+    "main.js": "/RobboFriends/static/js/main.afa8806c.js",
+    "index.html": "/RobboFriends/index.html",
+    "main.79b6daa3.css.map": "/RobboFriends/static/css/main.79b6daa3.css.map",
+    "main.afa8806c.js.map": "/RobboFriends/static/js/main.afa8806c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.79b6daa3.css",
+    "static/js/main.afa8806c.js"
+  ]
+}
